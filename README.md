@@ -88,3 +88,8 @@ These areas are more resistant to **perceptual detection and statistical stegana
 - High image quality preservation
 - Visualization of embedding regions
 - Capacity analysis and PSNR evaluation
+
+## License
+
+This project is provided for **academic and research evaluation only**.
+Unauthorized reuse, redistribution, or claiming this work as your own is prohibited.
