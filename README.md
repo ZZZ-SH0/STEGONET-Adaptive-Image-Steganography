@@ -6,7 +6,7 @@ Instead of embedding data uniformly across the image, the system uses a convolut
 
 By embedding information only in these adaptive regions, the system achieves **higher imperceptibility and improved robustness** compared to naive LSB steganography.
 
-This project was developed as a **college project (B.Tech Computer Science & Engineering)**.  
+*This project was developed as a **college project so maybe no futher updates will be made**.  
 Further technical details are available in the accompanying research paper.
 
 ---
@@ -19,7 +19,7 @@ The StegoNet CNN analyzes the image and produces an **embedding priority map**, 
 
 Green areas represent **high-texture regions suitable for embedding**, while red areas should be avoided.
 
-![Embedding Priority Map](PATH_TO_IMAGE_1)
+![Embedding Priority Map](outputs/embedding_priority_map.png)
 
 ---
 
@@ -29,7 +29,7 @@ After embedding the secret message, the stego image appears visually identical t
 
 The difference visualization highlights the **small pixel modifications introduced during LSB embedding**.
 
-![Cover vs Stego Comparison](PATH_TO_IMAGE_2)
+![Cover vs Stego Comparison](outputs/stego_comp.png)
 
 These results demonstrate that the hidden message can be embedded while maintaining **very high image quality and minimal visible distortion**.
 
