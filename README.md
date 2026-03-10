@@ -19,7 +19,7 @@ The StegoNet CNN analyzes the image and produces an **embedding priority map**, 
 
 Green areas represent **high-texture regions suitable for embedding**, while red areas should be avoided.
 
-![Embedding Priority Map](PATH_TO_IMAGE_1)
+![Embedding Priority Map](outputs/embedding priority map.png)
 
 ---
 
