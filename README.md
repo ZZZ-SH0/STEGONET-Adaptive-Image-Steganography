@@ -29,7 +29,7 @@ After embedding the secret message, the stego image appears visually identical t
 
 The difference visualization highlights the **small pixel modifications introduced during LSB embedding**.
 
-![Cover vs Stego Comparison](PATH_TO_IMAGE_2)
+![Cover vs Stego Comparison](outputs/stego_comp.png)
 
 These results demonstrate that the hidden message can be embedded while maintaining **very high image quality and minimal visible distortion**.
 
