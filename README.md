@@ -6,7 +6,7 @@ Instead of embedding data uniformly across the image, the system uses a convolut
 
 By embedding information only in these adaptive regions, the system achieves **higher imperceptibility and improved robustness** compared to naive LSB steganography.
 
-This project was developed as a **college project (B.Tech Computer Science & Engineering)**.  
+*This project was developed as a **college project so maybe no futher updates will be made**.  
 Further technical details are available in the accompanying research paper.
 
 ---
